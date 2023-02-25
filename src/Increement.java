@@ -1,6 +1,6 @@
 public class Increement {
     public static void main(String[] args) {
-        //Arithmetic
+        //understanding Arithmetic (revision)
         int sum = 2;
         int inc = sum++;
         System.out.println(inc);//this returns the operation value
